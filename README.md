@@ -1,4 +1,4 @@
-# arbolAVL
+# ArbolAVL
 Implemetacion del arbol AVL
 
 ¿Que es un árbol AVL?
