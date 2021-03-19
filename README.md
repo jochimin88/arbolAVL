@@ -49,7 +49,7 @@ La Rotación doble a la Izquierda son dos rotaciones simples, primero rotación 
 * Inserción:
 La inserción en un árbol de AVL puede ser realizada insertando el valor dado en el árbol como si fuera un árbol de búsqueda binario desequilibrado y después retrocediendo hacia la raíz, rotando sobre cualquier nodo que pueda haberse desequilibrado durante la inserción.
 
-*Proceso de inserción:
+* Proceso de inserción:
 Buscar hasta encontrar la posición de inserción o modificación (proceso idéntico a inserción en árbol binario de búsqueda).
 Insertar el nuevo nodo con factor de equilibrio “equilibrado”.
 Desandar el camino de búsqueda, verificando el equilibrio de los nodos, y re-equilibrando si es necesario.
